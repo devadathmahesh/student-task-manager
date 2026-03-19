@@ -1,0 +1,67 @@
+Title:
+
+Smart Student Task Manager using Java
+
+1. Introduction
+
+Explain student problem + need for task tracking
+
+2. Problem Statement
+
+Students fail to manage deadlines effectively.
+
+3. Objective
+
+Build a CLI-based task manager in Java.
+
+4. Methodology
+
+Used OOP design
+
+Used file handling for persistence
+
+Menu-driven interaction
+
+5. System Design
+
+Explain:
+
+Task class
+
+TaskManager class
+
+6. Implementation
+
+Explain logic:
+
+Adding tasks
+
+Saving to file
+
+Reading from file
+
+7. Challenges Faced
+
+File handling errors
+
+Input validation
+
+Data persistence
+
+8. Results
+
+Successfully manages tasks
+
+Helps track deadlines
+
+9. Conclusion
+
+Practical real-world solution
+
+10. Future Enhancements
+
+GUI version
+
+Mobile app
+
+Notifications
